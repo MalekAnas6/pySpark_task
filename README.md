@@ -10,7 +10,7 @@ This repository contains my solutions to a PySpark Task that covers:
 ## Contents
 - `Task.ipynb` — full solved notebook with explanations.
 - `russia.txt`, `NullData.csv`, `mnm_dataset.csv` — datasets used.
-- `depi.yaml` - environment file.
+- `depi.yaml` — environment file.
 
 ## Skills Demonstrated
 - Data wrangling with RDDs
